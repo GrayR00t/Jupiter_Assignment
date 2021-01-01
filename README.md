@@ -2,7 +2,7 @@
 For above assigment I am providing two solution written in python, one without use of any inbuilt library and another with scipy library.
 
 
-## General Instruction to run the solution
+## General Instructions to run the solution
 - Clone the repository in your local machine
 - Install the scipy library required for solution2 open terminal and type fallowing command
 ```bash
@@ -10,7 +10,7 @@ pip install scipy
 ```
 
 
-### Instruction to run solution1
+### Instructions to run solution1
 - Navigate to solution1 directory
 ```bash
 cd ./Jupiter_Assignment/solution1
@@ -29,7 +29,7 @@ Enter total number cpu available in data center:100
 Maximum profit would be 1900 for p1 = 5, p2 = 0, p3 = 45, p4 = 0
 
 ```
-### Instruction to run solution2
+### Instructions to run solution2
 -Navigate to solution2 directory
 ```bash
 cd ./Jupiter_Assignment/solution2
